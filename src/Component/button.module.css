@@ -1,0 +1,28 @@
+.divclass{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.primary{
+    color: white;
+    background-color: rgb(15, 89, 199);
+    border: none;
+}
+.default{
+    border: 1px solid gray;
+    background-color: transparent;
+}
+.dashed{
+    border: 1px dashed gray ;
+    background-color: white;
+}
+.text{
+    background-color: white;
+    border: none;
+}
+.link{
+ color: rgb(15, 89, 199);
+ border: none;
+ background-color: white;
+}
